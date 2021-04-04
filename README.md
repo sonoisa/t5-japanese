@@ -13,3 +13,8 @@ https://huggingface.co/sonoisa/t5-base-japanese
 - [ニュース記事本文生成（文章生成）](https://colab.research.google.com/github/sonoisa/t5-japanese/blob/main/t5_japanese_article_generation.ipynb)
 
 
+
+## 転移学習済みモデルを用いた推論の例
+
+- [ニュース記事のタイトル生成（一種の文章要約）の推論のみ](https://colab.research.google.com/github/sonoisa/t5-japanese/blob/main/t5_japanese_title_generation_inference.ipynb)
+- [ニュース記事本文生成（文章生成）の推論のみ](https://colab.research.google.com/github/sonoisa/t5-japanese/blob/main/t5_japanese_article_generation_inference.ipynb)
