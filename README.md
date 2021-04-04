@@ -6,6 +6,11 @@
 https://huggingface.co/sonoisa/t5-base-japanese
 
 
+## 解説記事
+
+https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44
+
+
 ## 転移学習の例
 
 - [ニュース記事のジャンル予想（文章分類）](https://colab.research.google.com/github/sonoisa/t5-japanese/blob/main/t5_japanese_classification.ipynb)
